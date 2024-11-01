@@ -1,0 +1,92 @@
+# Copyright (C) 2023 ThemeNcode LLC
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Excerpt Generator by ThemeNcode 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tnc-ai-excerpt-generator\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-09T05:03:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: tnc-ai-excerpt-generator\n"
+
+#. Plugin Name of the plugin
+msgid "AI Excerpt Generator by ThemeNcode"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://themencode.com/ai-excerpt-generator/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Automatically generates a excerpt of posts and saves it as an excerpt using OpenAI's GPT-3 language model."
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeNcode LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themencode.com/"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:44
+msgid "Generate Excerpt Settings"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:45
+msgid "Developed & Maintained by %1s"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:48
+msgid "OpenAI API Key"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:50
+msgid "Get your API key from %1s"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:52
+msgid "Enable on Post Types"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:75
+#: tnc-ai-excerpt-generator.php:82
+msgid "Select Model"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:98
+msgid "Maximum Token"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:100
+msgid "Maximum Number of token to use for each excerpt generation. %1s to find how token counting works."
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:193
+msgid "No excerpt generated yet."
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:197
+msgid "Generated Excerpt:"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:199
+msgid "Generate Excerpt"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:233
+msgid "Invalid nonce"
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:241
+msgid "Content is too short to generate an excerpt. Please ensure there is at least "
+msgstr ""
+
+#: tnc-ai-excerpt-generator.php:259
+msgid "Failed to Generate Excerpt"
+msgstr ""
